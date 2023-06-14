@@ -1,0 +1,118 @@
+2.
+
+a. j = 5, i = 6
+b. j = 6, i = 6
+c. k = 1, j = 1, i = 1
+d. i = 3, j = 12, k = 9
+e. i = 2, j = 3, k = 6
+f. f1 = 5, f2 = 3, resto = 1 
+g. m = 24 , n = 7, p = 3, q = 0
+h. d1 = 11, d2 = 10, resto = 1
+i. num 1 = 9, num2 = 80, num3 = 8, num4 = 100, num5 = 1
+j. i = 1, j = 20
+
+16. 
+
+a)
+
+#include <stdio.h>
+#include <math.h>
+
+void main()
+{
+
+double x, y;
+
+printf("Insira o valor de x:");
+scanf("%lf", &x);
+
+y = pow(x,2) -9*x +7;
+
+printf("y e igual a %lf:", y);
+
+}
+
+b)
+
+#include <stdio.h>
+#include <math.h>
+
+void main()
+{
+
+double x, y;
+
+printf("Insira o valor de x:");
+scanf("%lf", &x);
+
+y = cos(x) + sin(x)
+
+printf("y e igual a %lf:", y);
+
+}
+
+c) 
+
+#include <stdio.h>
+#include <math.h>
+
+void main()
+{
+
+double x, y;
+
+printf("Insira o valor de x:");
+scanf("%lf", &x);
+
+y = pow(8x-3, 1/5); 
+
+printf("y e igual a %lf:", y);
+
+}
+
+d)
+
+#include <stdio.h>
+#include <math.h>
+
+void main()
+{
+
+double x, y, abs_x;
+
+printf("Insira o valor de x:");
+scanf("%lf", &x);
+
+abs_x = abs(x-5);
+y = pow(abs_x, 1.0/2.0); 
+
+printf("y e igual a %lf:", y);
+
+}
+
+
+e)
+#include <stdio.h>
+#include <math.h>
+
+void main()
+{
+
+double x, y, abs_x;
+#define pi 3.14
+
+printf("Insira o valor de x:");
+scanf("%lf", &x);
+
+abs_x = 2*pi - x;
+y = sin(abs_x);
+
+printf("y e igual a %lf:", y);
+
+f) Não entendi.
+
+
+
+
+
+

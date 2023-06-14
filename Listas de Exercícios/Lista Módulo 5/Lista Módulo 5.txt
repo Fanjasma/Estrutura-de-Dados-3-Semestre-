@@ -1,0 +1,28 @@
+1. 
+a. int 2
+b. int 1
+c. int 5
+d. double 11
+e. double 16
+f. int 1
+g. float 4
+h. float 4
+i. float -4
+j. int 1
+k. int 1
+l. int 0
+m. int 1
+n. int 1 
+o. int 1
+p. int 1
+q. int 1
+r. int 0
+s. int 1
+t. float 0
+u. float 0
+v. double 0
+w. double 0
+
+
+Todo n>0 = V?
+
